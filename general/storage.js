@@ -1,6 +1,5 @@
 class Storage {
     constructor(){
-
     }
     getPlayersFromStorage(){
         let players;
